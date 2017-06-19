@@ -1,0 +1,56 @@
+<div id="dnn_ctr397_HtmlModule_lblContent" class="Normal">
+	<table class="tableDefault">
+    <thead>
+        <tr>
+            <th>Table Heading One</th>
+            <th>Table Heading Two</th>
+            <th>Table Heading Three</th>
+            <th>Table Heading Four</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+        <tr>
+            <td>Column One</td>
+            <td>Column Two</td>
+            <td>Column Three</td>
+            <td>Column Four</td>
+        </tr>
+    </tbody>
+</table>
+</div>

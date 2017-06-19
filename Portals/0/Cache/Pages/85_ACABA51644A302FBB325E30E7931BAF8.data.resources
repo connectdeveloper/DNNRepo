@@ -1,0 +1,21 @@
+<div id="dnn_ctr396_HtmlModule_lblContent" class="Normal">
+	<h5>Unordered List</h5>
+<ul>
+    <li>Pellentesque eu semt adipiscing tortor.</li>
+    <li>Duis fringilla urnla accumsan venenatis.</li>
+    <li>Nulla id ligula veltesque ac id magna.</li>
+    <li>Duis sollicitudin nisl adipiscing aliquet.</li>
+</ul>
+<h5>Ordered List</h5>
+<ol>
+    <li>Pellentesque eu semt adipiscing tortor.</li>
+    <li>Duis fringilla urnla accumsan venenatis.
+    <ol>
+        <li>Nulla id ligula veltesque ac id magna.</li>
+        <li>Duis sollicitudin nisl adipiscing aliquet.</li>
+    </ol>
+    </li>
+    <li>Nulla id ligula veltesque ac id magna.</li>
+    <li>Duis sollicitudin nisl adipiscing aliquet.</li>
+</ol>
+</div>

@@ -1,0 +1,14 @@
+<div id="dnn_ctr395_HtmlModule_lblContent" class="Normal">
+	<h5>Hyperlink Buttons [<a> </a>]</h5>
+<p>
+<a class="primaryButton" href="#">Primary Style</a>
+<a class="secondaryButton" href="#">Secondary Style</a>
+<a class="altButton" href="#">Alternative Style</a>
+</p>
+<h5>Form Buttons [<button> </button>]</h5>
+<p>
+<button class="primaryButton" type="submit">Primary Style</button>
+<button class="secondaryButton" type="submit">Secondary Style</button>
+<button class="altButton" type="submit">Alternative Style</button>
+</p>
+</div>

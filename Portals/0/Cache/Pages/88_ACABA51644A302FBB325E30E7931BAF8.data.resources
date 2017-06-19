@@ -1,0 +1,22 @@
+<div id="dnn_ctr399_HtmlModule_lblContent" class="Normal">
+	<div class="content_newslist smallThumbnail">
+<ul>
+    <li>
+    <img src="/portals/0/Images/storeNews1.png" alt="2013 Models are in stock now" class="imgBorder" />
+    <div>
+    <h5><a href="#">2013 Models are in stock now</a></h5>
+    <span>14 August 2012</span>
+    </div>
+    </li>
+    <li class="last">
+    <img src="/portals/0/Images/storeNews2.png" alt="Awesome Cycles at Crankworx 2012" class="imgBorder" />
+    <div>
+    <h5><a href="#">Awesome Cycles at Crankworx 2012</a></h5>
+    <span>10 August 2012</span>
+    </div>
+    </li>
+</ul>
+</div>
+<!--Contact Image Button -->
+<a href="#"><img src="/portals/0/Images/button_contactUs.png" alt="Contact Us" /></a>
+</div>
